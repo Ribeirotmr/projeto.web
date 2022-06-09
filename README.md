@@ -1,4 +1,4 @@
-# Trabalho de construção de softwerar para a web 
+# TRABALHO DE CONSTRUÇÃO DE SOFTWEAR PARA WEB.
 
 Aluno: [Thierry Martins Ribeiro](https://github.com/Ribeirotmr)
 
