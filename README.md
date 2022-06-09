@@ -12,7 +12,7 @@ Professor: [Ricardo Mendes](https://github.com/rmcs87)
 
 ### Esse trabalho tem está atrelado junto a matéria de UX 
 
-***O proposito desse trabalho era o aluno escolher um wareframe do trabalho de Experiência do usuário e por meiro desse wareframe desenvolve-lo***
+***O proposito desse trabalho era o aluno escolher um wireframe do trabalho de Experiência do usuário e por meiro desse wireframe desenvolve-lo***
 
 # Quais linguagens de programação foram usadas ? 
 
